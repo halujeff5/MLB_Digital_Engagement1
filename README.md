@@ -8,5 +8,5 @@ A model that can predict daily MLB fan engagement given a wide range of variable
 These features will drive MLB fan engagement because of:
 
 excitement 
-sport highlights
+sporting highlights
 
