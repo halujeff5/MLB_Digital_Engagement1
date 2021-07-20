@@ -15,5 +15,10 @@ These features will drive MLB fan engagement because of:
 
 The AWARDS.ipynb, EVENTS.ipynb, Standings.ipynb, PlayerEnagagmentTarget4.ipynb, season_EDA.ipynb contain the derived dataframes from which the .csv's were organized into. The dfs were pickled into the main notebook where the modelling took place.
 
+Lowest MAE (so far):
 
+*0.897
 
+Lowest RMSE (so far):
+
+*4.1
