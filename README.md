@@ -22,3 +22,7 @@ Lowest MAE (so far):
 Lowest RMSE (so far):
 
 *4.1
+
+Competition eval metric (MAE)
+mean across 4 targets: 
+* 0.999
