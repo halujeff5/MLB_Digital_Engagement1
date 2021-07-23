@@ -31,3 +31,5 @@ Lowest RMSE (so far):
 Competition eval metric (MAE)
 mean across 4 targets: 
 * 0.999
+
+The next model tested was a LSTM NN. 
