@@ -32,4 +32,4 @@ Competition eval metric (MAE)
 mean across 4 targets: 
 * 0.999
 
-The next model tested was a LSTM NN. 
+The next model tested was a LSTM NN. This model uses a masking layer. A masking layer is necessary because there were a lot of Nan values in data which was converted to 0.0 during data cleaning. The masking layer will treat these values as non-factors during fitting. 2 LSTM layers + 1 dense layer + 1 output layer completes the LSTM NN. The batch size used for training was 50,000 while the entire dataset was +6 million rows. It ran for about 6-7 epochs before the loss function was stablilized and training halted. I also grouped out a validation set of +1 million datapoints while 5 million was for train/test. The predictions on our test data was mediocre while our validation data was predicted much better. There may be some bias in our model because we have only 7 features (simple model). 
