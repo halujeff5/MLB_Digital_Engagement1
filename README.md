@@ -23,7 +23,10 @@ Lowest RMSE (so far):
 
 *4.1
 
-<img src='images/Screen Shot 2021-07-21 at 5.45.09 AM.png'>
+<img src='images/Screen Shot 2021-07-21 at 5.45.09 AM.png'>  
+<img src='images/Screen Shot 2021-07-21 at 5.45.25 AM.png'>
+<img src='images/Screen Shot 2021-07-21 at 5.45.42 AM.png'>
+<img src='images/Screen Shot 2021-07-21 at 5.45.56 AM.png'>  Most engagement scores are <= 20
 
 Competition eval metric (MAE)
 mean across 4 targets: 
