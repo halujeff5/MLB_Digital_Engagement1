@@ -23,7 +23,7 @@ Lowest RMSE (so far):
 
 *4.1
 
-![] (images/Screen%20Shot%202021-07-21%20at%205.45.09%20AM.png)
+<img src=images/Screen%20Shot%202021-07-21%20at%205.45.09%20AM.png)
 
 Competition eval metric (MAE)
 mean across 4 targets: 
