@@ -18,7 +18,7 @@ These features will drive MLB fan engagement because of:
 * sporting highlights
 * excellence in the sport
 
-The AWARDS.ipynb, EVENTS.ipynb, Standings.ipynb, PlayerEnagagmentTarget4.ipynb, season_EDA.ipynb contain the derived dataframes from which the .csv's were organized into. The dfs were pickled into the main notebook where the modelling took place. The data was normalized with a MinMax Scaler. 
+The AWARDS.ipynb, EVENTS.ipynb, Standings.ipynb, PlayerEnagagmentTarget4.ipynb, season_EDA.ipynb contain the derived dataframes from which the .csv's were organized into. The dfs were pickled into the main notebook where the modelling took place. The data was normalized with a MinMax Scaler. There are 4 target variables to predict in this contest namely 'Target1', 'Target2', 'Target3', 'Target4.' The actual Light GBM was a DART booster regressor. 
 
 Lowest MAE (so far): 
 *0.897
