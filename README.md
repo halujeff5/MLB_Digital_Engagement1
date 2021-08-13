@@ -3,6 +3,15 @@
 ### The Final_NB.ipynb is the LightGBM notebook of the project.
 ### The FinalNB_NN.ipynb is the LSTM notebook of the project
 
+Repository Structure
+1. EDA notebooks
+ a. awards.ipynb
+ b. events.ipynb
+ c. player_engagement_target4.ipynb
+ d. season_eda.ipynb
+ e. standings.ipynb
+2. CSV Files 
+
 
 <img src='images/Screen Shot 2021-07-23 at 4.17.42 PM.png' width='500' > 
 
