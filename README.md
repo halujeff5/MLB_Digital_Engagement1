@@ -15,7 +15,7 @@ Repository Structure
    * players.csv
 * Pickle_files
   
-<img src=“clothing-dataset/Logo.png”>
+<img src='images/clothing-dataset/Logo.png'>
 <img src='images/Screen Shot 2021-07-23 at 4.17.42 PM.png' width='500' > 
 
 
